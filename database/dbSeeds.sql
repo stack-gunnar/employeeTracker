@@ -1,3 +1,5 @@
+USE employee_trackerDB
+
 INSERT INTO departments(departmentName) VALUES ('Sales'), ('Engineering'), ('Human Resources'), ('IT');
 
 
